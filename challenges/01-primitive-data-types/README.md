@@ -15,7 +15,7 @@ the BMI of a person.
 
 ### Sample
 ```
-What is your height? 163
-What is your weight? 57
+What is your height (cm)? 163
+What is your weight (kg)? 57
 Your BMI is 21.5!
 ```
