@@ -7,6 +7,25 @@ In this challenge, you have been tasked to write a program that draws a pyramid
 ### Outputs
 - The pyramid
 
+### Tips
+A pyramid is basically 2 triangles attached to each other
+
+```
+     .
+     ..
+     ...
+     ....
+     .....
+```
+```
+    .
+   ..
+  ...
+ ....
+.....
+```
+
+
 
 ### Sample
 ```

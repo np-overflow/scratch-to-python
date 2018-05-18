@@ -1,9 +1,13 @@
 # Ask for height
 height = input('What is your height (cm)? ')
-height = int(height) / 100 # Convert to m
+
+# Convert height from string to integer and convert from cm to m
+height = int(height) / 100
 
 # Ask for weight
 weight = input('What is your weight (kg)? ')
+
+# Convert height from string to integer
 weight = int(weight)
 
 # Calculate BMI
