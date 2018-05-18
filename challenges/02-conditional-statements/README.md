@@ -9,14 +9,15 @@ In this challenge, you have been tasked to write a program that calculates the B
 |bmi > 30.0				| Obese			|
 
 ### Inputs
-- The person's ```height``` in cn
-- The person's ```weight``` in kg
+- The person's `height` in cn
+- The person's `weight` in kg
 
 ### Outputs
-- The person's BMI and message stating their BMI status
+- The person's `bmi` and message stating their `bmi_status`
 
 ### Tips
 - Follow the BMI calculation logic from the previous challenge
+- Use the `if elif else` statements that you have learnt
 
 ### Sample
 ```
