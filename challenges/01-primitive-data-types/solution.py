@@ -1,9 +1,13 @@
+# Ask for height
 height = input('What is your height (cm)? ')
-height = int(height) / 100
+height = int(height) / 100 # Convert to m
 
+# Ask for weight
 weight = input('What is your weight (kg)? ')
 weight = int(weight)
 
+# Calculate BMI
 bmi = weight / (height * height)
-bmi = str(bmi)
-print('Your BMI is ' + bmi + '!')
+
+# Print out the BMI
+print('Your BMI is %.2f!' % bmi)
