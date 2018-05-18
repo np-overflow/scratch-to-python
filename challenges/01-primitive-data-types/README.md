@@ -10,6 +10,8 @@ the BMI of a person.
 - The person's `bmi`
 
 ### Tips
+![BMI Formula](http://www.whathealth.com/bmi/images/bmiformula-metric.png)
+
 - Remember to convert the `height` to m
 - `input` receives the user input as a `str`, not a `float` or an `int`
 
