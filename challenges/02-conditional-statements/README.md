@@ -16,6 +16,8 @@ In this challenge, you have been tasked to write a program that calculates the B
 - The person's `bmi` and message stating their `bmi_status`
 
 ### Tips
+![BMI Formula](http://www.whathealth.com/bmi/images/bmiformula-metric.png)
+
 - Follow the BMI calculation logic from the previous challenge
 - Use the `if elif else` statements that you have learnt
 
