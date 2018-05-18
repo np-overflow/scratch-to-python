@@ -11,18 +11,18 @@ In this challenge, you have been tasked to write a program that draws a pyramid
 A pyramid is basically 2 triangles attached to each other
 
 ```
-     .
-     ..
-     ...
-     ....
-     .....
+     *
+     **
+     ***
+     ****
+     *****
 ```
 ```
-    .
-   ..
-  ...
- ....
-.....
+    *
+   **
+  ***
+ ****
+*****
 ```
 
 
@@ -30,9 +30,9 @@ A pyramid is basically 2 triangles attached to each other
 ### Sample
 ```
 What is the radius of the base of the pyramid? 5
-    ..
-   ....
-  ......
- ........
-..........
+    **
+   ****
+  ******
+ ********
+**********
 ```
