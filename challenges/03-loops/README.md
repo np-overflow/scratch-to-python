@@ -1,38 +1,20 @@
 # Challenge 3: Loops
-In this challenge, you have been tasked to write a program that draws a pyramid 
+In this challenge, you have been tasked to write a program that draws a triangle 
 
 ### Inputs
-- The  `radius`  of the base of the pyramid
+- The  `base` of the triangle
 
 ### Outputs
-- The pyramid
-
-### Tips
-A pyramid is basically 2 triangles attached to each other
-
-```
-     *
-     **
-     ***
-     ****
-     *****
-```
-```
-    *
-   **
-  ***
- ****
-*****
-```
+- The triangle
 
 
 
 ### Sample
 ```
-What is the radius of the base of the pyramid? 5
-    **
-   ****
-  ******
- ********
-**********
+What is the base of the pyramid? 5
+*
+**
+***
+****
+*****
 ```
