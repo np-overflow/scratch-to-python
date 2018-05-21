@@ -7,18 +7,13 @@ In this challenge, you have been tasked to write a program that prints a message
 ### Outputs
 - `"Hello {name}. You are the {no}'{st/nd/rd/th} person"`
 
-### Tips
-- 11-20 is a special case where the st/end/rd/th doesn't apply. Ignore for now
-- Try for a special challenge
-
-
 
 ### Sample
 ```
 Who would you like to greet? Bob, Mary, Jane, Judy
 
-Hello Bob. You are the 1st Person. 
-Hello Mary. You are the 2nd Person. 
-Hello Jane. You are the 3rd Person. 
-Hello Judy. You are the 4th Person. 
+Hello Bob. You are No. 1 in the list. 
+Hello Mary. You are No. 2 in the list. 
+Hello Jane. You are No. 3 in the list. 
+Hello Judy. You are No. 4 in the list. 
 ```
