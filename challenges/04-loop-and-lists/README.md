@@ -5,8 +5,10 @@ In this challenge, you have been tasked to write a program that prints a message
 - The  `lists` of the people to greet
 
 ### Outputs
-- `"Hello {name}. You are the {no}'{st/nd/rd/th} person"`
+- `"Hello {name}. You are No. {no} in the list."`
 
+### Tips
+- Use enumerate to get the index of the list
 
 ### Sample
 ```
